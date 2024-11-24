@@ -1,6 +1,5 @@
 # ETH-MEV-BOT
 
-![ETH-MEV-BOT Logo](https://example.com/eth-mev-bot-logo.png)
 
 Welcome to the ETH-MEV-BOT repository! This repository contains an Ethereum frontrunning bot designed to frontrun and sandwich transactions on the Ethereum blockchain. Take advantage of this powerful tool to optimize your trading strategies and maximize your profits. 
 
